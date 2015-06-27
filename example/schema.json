@@ -1,0 +1,17 @@
+{
+  "sauropods": [
+    "name",
+    "age",
+    "happiness"
+  ],
+  "raptors": [
+    "name",
+    "happiness"
+  ],
+  "astronauts": [
+    "name",
+    "species",
+    "happy",
+    "trips"
+  ]
+}
